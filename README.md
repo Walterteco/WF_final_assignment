@@ -1,2 +1,2 @@
-# WF_final_assignment
+# WF_agile-final-project
 This repository contains my final assignment for agile planning
